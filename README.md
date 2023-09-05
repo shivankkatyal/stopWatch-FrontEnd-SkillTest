@@ -2,7 +2,7 @@
 Stopwatch project is developed using following languages in VS Code :
 HTML, CSS & JavaScript.
 
-This project is available on the following link - https://github.com/shivankkatyal/stopWatch-FrontEnd-SkillTest.git
+This project is available on the following link - https://shivankkatyal.github.io/stopWatch-FrontEnd-SkillTest/
 
 Let me give you a short introduction about this project. Basically this projects covers below basic stopwatch functionalities which helps us to capture the time in Hours, Minutes and Seconds :
 1. Start timer
